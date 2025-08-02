@@ -5,6 +5,8 @@ import MalzemeDuzenle from './components/MalzemeDuzenle';
 import MalzemeListesi from './components/MalzemeListesi';
 import logo from './assets/koudak-logo.png';
 
+// Redeploy denemesi için boş yorum satırı
+
 function AnaSayfa() {
   return (
     <div style={styles.container}>
